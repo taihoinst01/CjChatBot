@@ -446,7 +446,6 @@ namespace CjChatBot
                             beforeMessgaeText = message.ToString();
 
                             Debug.WriteLine("SERARCH MESSAGE : " + message);
-                            sorryflag = false;
                             sorryflag = true;
                             //네이버 기사 검색
                             if (sorryflag)
